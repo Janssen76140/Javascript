@@ -3,8 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title>Je fais du JavaScript</title>
-    <script type="text/javascript" src="./asset/js/script.js"></script>
+    <script type="text/javascript" src="./asset/js/functions/isLeapYear.js"></script>
 </head>
 <body>
+    <script>
+        let reponse = prompt('quelle annee ?');
+
+        if (isLeapYear(reponse)) {
+            alert('Wesh');
+        }
+
+        else {
+            alert('Not wesh!')
+        }
+    </script>
 </body>
 </html>
