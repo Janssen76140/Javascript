@@ -3,19 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>Je fais du JavaScript</title>
-    <script type="text/javascript" src="./asset/js/functions/isLeapYear.js"></script>
+    <script type="text/javascript" src="./asset/js/functions/CalculerVolumeCylindre.js"></script>
 </head>
 <body>
     <script>
-        let reponse = prompt('quelle annee ?');
+        let rayon = prompt('Cest quoi le rayon ?');
+        let hauteur = prompt('Cest quoi la hauteur ?');
 
-        if (isLeapYear(reponse)) {
-            alert('Wesh');
-        }
+        let resultat = calculerVolumeCylindre(rayon, hauteur);
 
-        else {
-            alert('Not wesh!')
-        }
+        if (resultat) alert(resultat);
+        else alert('paie ta tournée');
+
     </script>
 </body>
 </html>

@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575967890354</updated>
-      <workItem from="1575967892882" duration="7608000" />
+      <workItem from="1575967892882" duration="9054000" />
     </task>
     <task id="LOCAL-00001" summary="Création du fichier .gitignore">
       <created>1575968102042</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575973784770</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Functions isLeapYear">
+      <created>1575978884121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575978884121</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,13 +111,14 @@
     <MESSAGE value="Création du fichier .gitignore" />
     <MESSAGE value="Boucle for et condition avec modulo" />
     <MESSAGE value="fonction isNan" />
-    <option name="LAST_COMMIT_MESSAGE" value="fonction isNan" />
+    <MESSAGE value="Functions isLeapYear" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions isLeapYear" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="30" key="CommitChangelistDialog2" timestamp="1575973784597">
+    <state x="395" y="30" key="CommitChangelistDialog2" timestamp="1575978883932">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="395" y="30" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575973784597" />
+    <state x="395" y="30" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575978883932" />
     <state x="568" y="380" key="Github.Dialog.Accounts.Choose" timestamp="1575970955360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -119,9 +127,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575968171141" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575973786537">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575978886699">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575973786537" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575978886699" />
   </component>
 </project>
